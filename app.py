@@ -2,7 +2,7 @@
 
 import streamlit as st
 from PIL import Image 
-from segment import process
+from predict_img import process
 
 st.title('Cifar_10 demo')
 
